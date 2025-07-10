@@ -1,7 +1,7 @@
-=== WooCommerce Bulk Edit Products - WP Sheet Editor ===
+=== Bulk Edit Products for WooCommerce - WP Sheet Editor ===
 Contributors: wpsheeteditor,vegacorp,josevega
 Tags: woocommerce, bulk edit, products, spreadsheet, wp sheet editor
-Stable tag: 1.8.18
+Stable tag: 1.8.19
 Requires at least: 4.7
 Tested up to: 6.8
 License: GPLv2
@@ -196,6 +196,11 @@ Yes. You can set up the number of posts to save per batch and the waiting betwee
 1. bulk editor
 
 == Changelog ==
+= V 1.8.19 - 2025-07-11 =
+* CHANGE - CORE - UI improvements
+* FIX - CORE - Compatibility issue with WP-Stateless for Google Cloud
+
+
 = V 1.8.18 - 2025-05-23 =
 * CHANGE - CORE - UI improvements
 * FIX - CORE - General bug fixes

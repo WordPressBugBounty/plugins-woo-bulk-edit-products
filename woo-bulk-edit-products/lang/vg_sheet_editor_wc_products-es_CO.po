@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Poedit 2.3\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es\n"
+"Language: es_CO\n"
 
 #. Plugin Name of the plugin
 msgid "WP Sheet Editor - WooCommerce Products"
