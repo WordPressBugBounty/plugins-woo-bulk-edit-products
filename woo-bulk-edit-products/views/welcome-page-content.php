@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) || exit;
 
 $instance = vgse_wc_products();
 ?>
-<p><?php _e('Thank you for installing our plugin.', $instance->textname); ?></p>
+<p><?php esc_html_e('Thank you for installing our plugin.', $instance->textname); ?></p>
 
 <?php
 $steps = array();

@@ -19,7 +19,7 @@ if ( !class_exists( 'WPSE_WC_Products_Sheet' ) ) {
         function get_post_types_and_labels() {
             $out = array(
                 'post_types' => array($this->post_type),
-                'labels'     => array(__( 'Products', 'woocommerce' )),
+                'labels'     => array(esc_html__( 'Products', 'woocommerce' )),
             );
             // If this is the free version of the products plugin and there is a premium version of the post types plugin, don't load this to give priority to the post types plugin
             if ( function_exists( 'vgse_freemius' ) && vgse_freemius()->can_use_premium_code__premium_only() && !wpsewcp_freemius()->can_use_premium_code__premium_only() ) {

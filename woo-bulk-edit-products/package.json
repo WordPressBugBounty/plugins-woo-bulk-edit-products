@@ -1,11 +1,10 @@
 {
     "name": "wp-sheet-editor-woocommerce-products",
-    "version": "1.8.19",
+    "version": "1.8.21",
     "vgDistName": "woo-bulk-edit-products",
-    "vgPreviousVersion": "1.8.19-beta.1",
+    "vgPreviousVersion": "1.8.21-beta.1",
     "sheetEditorModules": {
         "free": [
-            "autofill-cells",
             "columns-resizing",
             "columns-visibility",
             "filters",
@@ -24,7 +23,8 @@
             "universal-sheet",
             "yoast-seo",
             "wpml",
-            "columns-manager"
+            "columns-manager",
+            "active-users"
         ]
     },
     "package_file_path": "C:\\VegaCorp\\dev\\wp-sheet-editor\/woocommerce-products\/package.json",
