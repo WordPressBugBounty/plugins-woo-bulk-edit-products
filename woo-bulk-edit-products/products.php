@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) || exit;
 /*
 	Plugin Name: WP Sheet Editor - WooCommerce Products
 	Description: Edit WooCommerce products in spreadsheet.
-	Version: 1.8.21
+	Version: 1.8.22
 	Author:      WP Sheet Editor
 	Author URI:  http://wpsheeteditor.com/?utm_source=wp-admin&utm_medium=plugins-list&utm_campaign=products
 	Plugin URI: https://wpsheeteditor.com/go/woocommerce-addon?utm_source=wp-admin&utm_medium=plugins-list&utm_campaign=products
@@ -12,7 +12,7 @@ defined( 'ABSPATH' ) || exit;
 	License URI: https://www.gnu.org/licenses/gpl-2.0.html
 	Requires at least: 4.7
 	WC requires at least: 4.0
-	WC tested up to: 10.4.3
+	WC tested up to: 10.9.4
 	Text Domain: vg_sheet_editor_wc_products
 	Domain Path: /lang
   	Requires Plugins: woocommerce

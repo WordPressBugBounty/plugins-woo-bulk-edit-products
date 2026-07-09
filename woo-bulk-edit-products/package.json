@@ -1,8 +1,8 @@
 {
     "name": "wp-sheet-editor-woocommerce-products",
-    "version": "1.8.21",
+    "version": "1.8.22",
     "vgDistName": "woo-bulk-edit-products",
-    "vgPreviousVersion": "1.8.21-beta.1",
+    "vgPreviousVersion": "1.8.22-beta.1",
     "sheetEditorModules": {
         "free": [
             "columns-resizing",
